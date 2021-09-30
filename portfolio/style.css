@@ -1,0 +1,62 @@
+body{
+  position: fixed;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  background-color: gray;
+}
+.header a{
+  float: right;
+  padding: 10px;
+  text-decoration: none;
+  color: #000000;
+  position: relative;
+  top: -25px;
+}
+div #btn a{
+    color: red;
+    border-style: solid;
+}
+.header h4{
+    display: inline;
+}
+.main{
+  text-align: center;
+  margin-top: 20%;
+  margin-right: 50%;
+  position: relative;
+  left: 50px;
+  top: -100px; 
+  background-color: gray;
+  
+}
+.main h1{
+  font-size: 50px;
+}
+.main h4{
+  font-size: 25px;
+  color: maroon;
+}
+.main p{
+  font-size: 15px;
+}
+img{
+  float: right;
+  position: relative;
+  top: -470px;
+  left: -50px;
+}
+.button{
+  text-align: center;
+  position: relative;
+  top: -75px;
+}
+input[type="button"]{
+  border-style: groove;
+  color: red;
+}
+input[type="submit"]{
+  border-style: ridge;
+  color: magenta;
+}
